@@ -14,6 +14,7 @@ O QUE NÃO GOSTAMOS: JQUERY =(
 ## 2º Criar Card de imóveis
 
  - Consumir via (GET) nosso endpoint para confeccionar o CARD.
+ - ( https://api.casafy.com/api/v2/search/elasticsearch/find?q=sp+sao-paulo/venda-direta )
  - O Card deve ser construído como um componente separado e importado na página de busca recebendo os parâmetros irá receber do endpoint )
  - O Card deve ter carousel das imagens.
  - Inserir carousel no modo responsivo com 1 Card por visualização.
