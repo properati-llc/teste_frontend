@@ -31,3 +31,5 @@ O QUE NÃO GOSTAMOS: JQUERY =(
  - Siga padrões ES6 pra cima....
  - Componentize seu código, amamos reusabilidade;
  - Utilize lifecycle ( ciclo de vida ) do VUE JS;
+ 
+ ## ***Faça upload do seu projeto em um repositório e compartilhe conosco.
