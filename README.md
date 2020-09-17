@@ -1,6 +1,6 @@
 # TESTE FRONT END - VUE JS / NUXT
 
-*** Atenção aos requisitos do projeto, você terá que criar uma página de busca conforme descrição abaixo, você irá criar a mesma página de busca do nosso site: como referência [casafy.com.br](https://www.casafy.com.br/busca/venda/proprietario) utilizando as stacks abaixo .=) ***
+*** Atenção aos requisitos do projeto, você terá que criar uma página de busca conforme descrição abaixo, você irá criar a mesma página de busca do nosso site: como referência [casafy.com.br](https://www.casafy.com.br/busca/sp/sao-paulo/venda-direta) utilizando as stacks abaixo .=) ***
 
 O QUE GOSTAMOS:: VUE JS, JAVASCRIPT =)
 
